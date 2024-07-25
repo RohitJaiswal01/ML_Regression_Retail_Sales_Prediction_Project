@@ -6,6 +6,9 @@
 
 📊 Rossmann operates over 3,000 drug stores in 7 European countries. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. 
 
+# **Dataset Link**
+https://drive.google.com/drive/folders/1-pr4tUFBuCMsBjJSX6SbI2RAPsUvNsn0?usp=sharing
+
 # **Problem Statement:**
 
 Rossmann operates over 3,000 drug stores in 7 European Countries. Currently, Rossmann store managers are tasked with predicting their daily sales up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the 'Sales' column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment
