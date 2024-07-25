@@ -1,6 +1,5 @@
 # ML_Regression_Retail_Sales_Prediction_Project
-![image](https://github.com/user-attachments/assets/822df3e5-d612-47f5-a5c9-f1dd810d67b7)
-
+![image](https://github.com/user-attachments/assets/fb81c25f-42f6-448f-a566-16cf7d737a47)
 
 📊 Rossmann operates over 3,000 drug stores in 7 European countries. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. 
 
