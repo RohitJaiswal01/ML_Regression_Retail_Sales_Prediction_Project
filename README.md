@@ -36,7 +36,7 @@ Extracted meaningful insights to inform future decision-making in the machine le
 
 Engineered new features, including PromoDuration and Competition Distance, to capture essential information.
 Addressed multicollinearity among independent variables using variance inflation factor (VIF) analysis.
-Detected and managed outliers using the Interquartile Range (IQR) technique.
+Detected and managed outliers using the winsorizing technique.
 Applied One-Hot Encoding to categorical variables for compatibility with machine learning algorithms.
 Employed various transformation techniques to achieve a normal distribution of data.
 
