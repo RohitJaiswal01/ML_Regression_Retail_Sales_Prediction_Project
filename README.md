@@ -41,7 +41,7 @@ Applied One-Hot Encoding to categorical variables for compatibility with machine
 Employed various transformation techniques to achieve a normal distribution of data.
 
 
-**4. Model Selection and Training**
+**4. Model Selection, Training and hyperparamaters tuning**
 
 Split the preprocessed data into training and testing sets to evaluate model performance.
 Implement multiple machine learning algorithms, including linear regression, decision trees, and random forest with regression techniques
