@@ -25,11 +25,12 @@ Cleaned and prepared the dataset for analysis ensuring data integrity
 Handled missing values and outliers to improve the quality of the data.
 
 
-**2. Exploratory Data Analysis (EDA)**
+**2. Exploratory Data Analysis (EDA) and Hypothesis Testing**
 
 Conducted in-depth EDA in order to extract valuable insights from the data set by exploring univariate, bivariate, and multivariate relationships.
 Generated insightful visualizations to uncover patterns and trends in the data.
 Extracted meaningful insights to inform future decision-making in the machine learning pipeline.
+Statistical tests are performed to validate assumptions about the data and relationships between variables. These tests provide evidence for or against hypothetical statements about sales behavior.
 
 
 **3. Feature Engineering and Preprocessing**
@@ -41,7 +42,7 @@ Applied One-Hot Encoding to categorical variables for compatibility with machine
 Employed various transformation techniques to achieve a normal distribution of data.
 
 
-**4. Model Selection, Training and hyperparamaters tuning**
+**4. Model Selection, Training and Hyperparamaters Tuning**
 
 Split the preprocessed data into training and testing sets to evaluate model performance.
 Implement multiple machine learning algorithms, including linear regression, decision trees, and random forest with regression techniques
